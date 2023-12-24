@@ -154,19 +154,3 @@ _  ____  _  ____   ____  ___    _ _ ____  _______  ____   ______
                                                                                                                                                                                                                                                           
 '''
 ]
-
-# xtest = df[df["name"] == "Katherine Pierce"]
-# xtest = xtest.drop(columns=["name"])
-
-# Notes for implementation
-# so we have our node, each node contains a featue to ask a questions. the node contains the right and left node. which are also nodes.
-# we will also have a data field for predicted_character. this predicted character can be none, if there is no single item in df.   
-# GLOSSARY
-    #labels is also targets
-    # target means the y column of "name"
-    # feature means all the column titles, so all the features 
-
-# Game Concept: Define the concept of your Akinator-style game. 
-# Specify the genre, target audience, and the overall experience you aim to deliver.
-# Game Design: Sketch the console-based user interface and outline the user experience. 
-# Identify key components such as the question-answer mechanism, character database, and game progression.
