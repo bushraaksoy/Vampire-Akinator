@@ -37,9 +37,10 @@ In conclusion, our application will try to guess a character from “The Vampire
 git clone https://github.com/bushraaksoy/VampireAkinator.git
 
 ### Install pandas and numpy libraries if you dont already have them intalled:
+```py
 pip install pandas
-
 pip install numpy
+```
 
 ### Play
 Run the main file and you are ready to play!
