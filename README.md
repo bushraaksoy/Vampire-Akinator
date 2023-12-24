@@ -1,6 +1,6 @@
 # Vampire Akinator Project🧞
 
-This project is about a character guessing game which uses machine learning algorithms to guess a character from a tv series. 
+This project is a console based character guessing game which uses machine learning algorithms to guess a character from a tv series. 
 This game is a mystery game and is targeted for anyone who wants to have some fun with testing to see how well a machine learning algorithm can guess their character.
 
 ## Characters:
