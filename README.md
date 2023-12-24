@@ -34,10 +34,12 @@ In conclusion, our application will try to guess a character from “The Vampire
 # How you can use this project
 
 ### Clone the project from your terminal: 
+```console
 git clone https://github.com/bushraaksoy/VampireAkinator.git
+```
 
 ### Install pandas and numpy libraries if you dont already have them intalled:
-```python
+```console
 pip install pandas
 pip install numpy
 ```
