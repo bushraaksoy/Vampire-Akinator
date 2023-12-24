@@ -33,7 +33,7 @@ def ask():
             continue
     if len(df) > 1:
         print("We could not find your character, but the closest match is: ")
-    return df
+    return df["name"].values[0]
 
 
 def valid_question(feature, data):
@@ -42,7 +42,7 @@ def valid_question(feature, data):
 
 
 def play():
-    answer = ask()["name"].values[0]
+    answer = ask()
     print("Your character is:", answer)
 
 play()
