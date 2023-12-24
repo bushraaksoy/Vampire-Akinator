@@ -38,6 +38,7 @@ git clone https://github.com/bushraaksoy/VampireAkinator.git
 
 ### Install pandas and numpy libraries if you dont already have them intalled:
 pip install pandas
+
 pip install numpy
 
 ### Play
