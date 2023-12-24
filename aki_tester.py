@@ -1,7 +1,7 @@
 import pandas as pd
 from constants import questions
 
-# Not machine learning version of this game:
+# THIS IS THE VERSION OF THIS GAME WITHOUT THE USE OF MACHINE LEARNING
 
 df = pd.read_csv("vamp_characters.csv")
 df.drop(columns=["actorName", "id"], inplace=True)
@@ -44,3 +44,5 @@ def valid_question(feature, data):
 def play():
     answer = ask()["name"].values[0]
     print("Your character is:", answer)
+
+play()
