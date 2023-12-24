@@ -31,7 +31,7 @@ The decision tree is trained to ask the most informative questions first. That i
 In conclusion, our application will try to guess a character from “The Vampire Diaries” series based on a series of yes and no questions answered by the user, using a machine learning decision tree model. All the while keeping the experience fun and exciting for the user😄.
 
 
-# How you can use this project
+# How you can try out this game
 
 ### Clone the project from your terminal: 
 ```bash
